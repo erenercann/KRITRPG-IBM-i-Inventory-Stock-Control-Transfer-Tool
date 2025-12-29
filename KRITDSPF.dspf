@@ -1,0 +1,15 @@
+          A                                      DSPSIZ(24 80 *DS3)                 
+          A                                      CF03(03 'EXÝT')                    
+          A          R DSPHDR                                                       
+          A                                  1  2'STOK KONTROL'                     
+          A                                  1 71DATE(*SYS)                         
+          A          R DSPPRM                                                       
+          A                                  5  2'DEPO KODU   :'                    
+          A            EDEPOTCDE      2A  B  5 17                                   
+          A                                  7  2'MÝN. MÝKTAR :'                    
+          A            EMINQTY       11Y 2B  7 17                                   
+          A          R WIN001                                                       
+          A                                      WINDOW(10 20 6 40)                 
+          A                                  2  5'ISLEM TAMAMLANDI!'                
+          A                                  3  5'TRF_KRIT DOSYASÝNÝ KONTROL EDÝN.' 
+          A                                  5  5'F3 = CÝKÝS'                       

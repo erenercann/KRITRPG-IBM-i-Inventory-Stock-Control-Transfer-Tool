@@ -1,0 +1,5 @@
+     A          R STOKRF                    TEXT('STOK DOSYASI FORMATI')
+     A            SKODE         15A         TEXT('STOK KODU')           
+     A            SNAME         40A         TEXT('STOK ADI')            
+     A            SQTY          11P 2       TEXT('STOK MIKTARI')        
+     A          K SKODE                                                 

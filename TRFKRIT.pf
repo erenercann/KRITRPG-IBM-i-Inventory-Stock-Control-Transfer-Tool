@@ -1,0 +1,6 @@
+     A               R TRFKRITR                  TEXT('TRANSFER DOSYA FORMATI')
+     A                 TKCODE        15A         TEXT('STOK KODU')             
+     A                 TKNAME        40A         TEXT('STOK ADI')              
+     A                 TKQTY         11P 2       TEXT('STOK MIKTARI')          
+     A                 TKMIN         11P 2       TEXT('MINIMUM STOK')          
+     A               K TKCODE                                                  
