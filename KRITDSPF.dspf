@@ -1,5 +1,5 @@
-          A                                      DSPSIZ(24 80 *DS3)                 
-          A                                      CF03(03 'EXÝT')                    
+     A                                      DSPSIZ(24 80 *DS3)                 
+     A                                      CF03(03 'EXÝT')                    
           A          R DSPHDR                                                       
           A                                  1  2'STOK KONTROL'                     
           A                                  1 71DATE(*SYS)                         
@@ -12,4 +12,5 @@
           A                                      WINDOW(10 20 6 40)                 
           A                                  2  5'ISLEM TAMAMLANDI!'                
           A                                  3  5'TRF_KRIT DOSYASÝNÝ KONTROL EDÝN.' 
+
           A                                  5  5'F3 = CÝKÝS'                       
