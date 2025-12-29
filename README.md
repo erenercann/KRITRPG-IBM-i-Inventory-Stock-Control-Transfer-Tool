@@ -56,3 +56,32 @@ Teknik Detaylar / Technical Specs
     * OS: IBM i (OS/400)
     * Database: DB2 for i (DDS defined Physical Files)
     * UI: DDS defined Display Files (SDA)
+
+------------------------------------------------------------------
+
+"STOKP" records;
+
+<img width="1221" height="416" alt="image" src="https://github.com/user-attachments/assets/a4019a08-1349-43ec-b9b5-e8eb2d96263f" />
+
+------------------------------------------------------------------
+
+"KRITDSPF" screen;
+
+<img width="511" height="212" alt="image" src="https://github.com/user-attachments/assets/b3ffdbac-8f9e-4634-bc22-b78b937c1e87" />
+
+------------------------------------------------------------------
+
+MSG screen;
+
+<img width="960" height="511" alt="image" src="https://github.com/user-attachments/assets/c2eb0dc9-a347-4cef-8c50-f7f30bc7cc94" />
+
+------------------------------------------------------------------
+
+"KRITRPGC" output; (It reported items with stock levels below the minimum required.)
+
+<img width="1736" height="347" alt="image" src="https://github.com/user-attachments/assets/e22471a8-c45f-4f6c-87f5-1b2346f13090" />
+
+
+
+
+    
